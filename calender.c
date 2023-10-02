@@ -135,7 +135,7 @@ int getNumberOfDays(int month,int year){ //returns the number of days in given m
 
 
 
-//prints the name of month and year
+//prints the name of month and year and up to date
 
 //*********
 
